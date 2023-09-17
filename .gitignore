@@ -14,3 +14,9 @@ _book
 *.epub
 *.mobi
 *.pdf
+*.pyc
+*.vscode
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/

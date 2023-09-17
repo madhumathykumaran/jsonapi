@@ -4,7 +4,7 @@ setup(
     name= 'jsonapi',
     version= '0.0.1',
     install_requires = [],
-    package_dir= {" ": "src"}, 
+    package_dir= {"jsonapi": "src"}, 
     packages= find_packages(
         where= 'src',
         include= ['jsonapi'],
